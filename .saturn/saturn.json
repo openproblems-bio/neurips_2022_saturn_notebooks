@@ -8,6 +8,11 @@
   "description": "",
   "environment_variables": {},
   "working_directory": "/home/jovyan/kaggle/working",
+  "extra_packages": {
+    "pip": {
+      "install": "tables seaborn scanpy muon"
+    }
+  },
   "start_script": "mkdir -p /home/jovyan/kaggle/input\nmkdir -p /home/jovyan/kaggle/working\ncp -rf /home/jovyan/kaggle/neurips_2022_notebooks/notebooks/* /home/jovyan/kaggle/working\naws s3 sync s3://saturn-kaggle-datasets/open-problems-multimodal/ /home/jovyan/kaggle/input/open-problems-multimodal --no-sign-request\nsudo ln -s /home/jovyan/kaggle /kaggle\n\n",
   "git_repositories": [
     {
@@ -29,6 +34,6 @@
     "start_dind": false,
     "self_destruct": false
   },
-  "visibility": "owner",
+   "visibility": "owner",
   "schema_version": "2022.08.01"
 }
