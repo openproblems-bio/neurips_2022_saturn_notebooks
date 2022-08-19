@@ -1,6 +1,6 @@
 # Kaggle notebooks for Saturn Cloud 
 
-This repository hosts notebooks for the [Open Problems - Multimodal Single-Cell Integration competition on Kaggle](https://www.kaggle.com/competitions/open-problems-multimodal/), presented at NeurIPS 2022. We created this repository so you can easily run notebooks for free on Saturn Cloud with a 128 GB GPU.
+This repository hosts notebooks for the [Open Problems - Multimodal Single-Cell Integration competition on Kaggle](https://www.kaggle.com/competitions/open-problems-multimodal/), presented at NeurIPS 2022. We created this repository so you can easily run notebooks for free on Saturn Cloud on an instance with 128 GB RAM, 32 core CPU, and 16GB GPU memory.
 
 ### Get started
 
