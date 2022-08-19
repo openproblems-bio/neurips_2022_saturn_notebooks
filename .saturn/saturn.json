@@ -24,7 +24,7 @@
     "instance_type": "2xlarge",
     "disk_space": "40Gi",
     "auto_shutoff": "1 hour",
-    "start_ssh": true,
+    "start_ssh": false,
     "use_spot_instance": false,
     "start_dind": false,
     "self_destruct": false
