@@ -29,7 +29,6 @@
     "start_dind": false,
     "self_destruct": false
   },
-  "owner": "hugoshi",
   "visibility": "owner",
   "schema_version": "2022.08.01"
 }
