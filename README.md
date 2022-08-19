@@ -1,4 +1,8 @@
 # Neurips 2022 Notebooks
+
+![image](https://user-images.githubusercontent.com/249407/185644139-5bfdd662-10d2-4eb5-83b0-c64d684cb19c.png)
+
+
 Notebooks for exploring data associated with the Open Problems competition on Kaggle, presented at NeurIPS 2022
 
 ## Free Compute Resources with Saturn Cloud
