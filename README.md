@@ -1,7 +1,7 @@
-# neurips_2022_notebooks
+# Neurips 2022 Notebooks
 Notebooks for exploring data associated with the Open Problems competition on Kaggle, presented at NeurIPS 2022
 
-## Run in Saturn Cloud
+## Free Compute Resources with Saturn Cloud
 
 Saturn Cloud is a data science platform for scalable Python, R, and Julia for teams and individuals. Without having to switch any tools, Saturn provides a flexible environment where computational biologists and data scientists can launch high-powered notebooks (Jupyter, RStudio, VS Code, and more) in the cloud, quickly use Dask clusters, GPUs, deploy cloud resources to expand their data science capabilities, collaborate throughout an entire project lifecycle, and more.
 
