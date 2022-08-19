@@ -6,12 +6,17 @@ This repository hosts notebooks for the [Open Problems - Multimodal Single-Cell 
 
 To get started loading the Kaggle notebooks with free compute from Saturn Cloud, click 👇
 
-<a href="https://app.community.saturnenterprise.io/dash/resources?recipeUrl=https://raw.githubusercontent.com/openproblems-bio/neurips_2022_notebooks/main/.saturn/saturn.json" target="_blank" rel="noopener">
+<a href="https://app.community.saturnenterprise.io/dash/resources?recipeUrl=https://raw.githubusercontent.com/openproblems-bio/neurips_2022_notebooks/main/.saturn/saturn-gpu.json" target="_blank" rel="noopener">
   <img src="https://saturncloud.io/images/embed/run-in-saturn-cloud.svg" alt="Run in Saturn Cloud"/>
 </a>
 
 If you message Saturn Cloud support, and say  "I'm competeing in NeurIPS 2022, I'd like more compute" you will be upgraded to 100 hours per month.
 
+If you don't need GPUs, click this to run the CPU based configuration.
+
+<a href="https://app.community.saturnenterprise.io/dash/resources?recipeUrl=https://raw.githubusercontent.com/openproblems-bio/neurips_2022_notebooks/main/.saturn/saturn-cpu.json" target="_blank" rel="noopener">
+  <img src="https://saturncloud.io/images/embed/run-in-saturn-cloud.svg" alt="Run in Saturn Cloud"/>
+</a>
 ### Free Compute Resources with Saturn Cloud
 
 [Saturn Cloud](https://saturncloud.io) is a data science platform for scalable Python, R, and Julia for teams and individuals. Without having to switch any tools, Saturn provides a flexible environment where computational biologists and data scientists can launch high-powered notebooks (Jupyter, RStudio, VS Code, and more) in the cloud, quickly use Dask clusters, GPUs, deploy cloud resources to expand their data science capabilities, collaborate throughout an entire project lifecycle, and more.
