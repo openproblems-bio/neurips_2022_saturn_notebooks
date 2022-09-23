@@ -1,8 +1,8 @@
 {
   "name": "openproblems-bio-2022",
   "image": {
-    "name": "saturn",
-    "version": "2022.04.01",
+    "name": "saturn-python",
+    "version": "2022.06.01",
     "owner": "saturncloud"
   },
   "description": "",
