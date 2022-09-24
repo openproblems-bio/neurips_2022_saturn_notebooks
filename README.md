@@ -10,7 +10,7 @@ To get started loading the Kaggle notebooks with free compute from Saturn Cloud,
   <img src="https://saturncloud.io/images/embed/run-in-saturn-cloud.svg" alt="Run in Saturn Cloud"/>
 </a>
 
-If you message Saturn Cloud support, and say  "I'm competeing in NeurIPS 2022, I'd like more compute" you will be upgraded to 100 hours per month.
+If you message Saturn Cloud support, and say  "I'm competing in NeurIPS 2022, I'd like more compute" you will be upgraded to 100 hours per month.
 
 If you don't need GPUs, [click this to run the CPU based configuration](https://app.community.saturnenterprise.io/dash/resources?recipeUrl=https://raw.githubusercontent.com/openproblems-bio/neurips_2022_notebooks/main/.saturn/saturn-cpu.json).
 
